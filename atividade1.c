@@ -19,7 +19,7 @@ int main(){
     if (num_alunos_aprovados > 0) {
         media_funcional = soma_notas / num_alunos_aprovados;
     }
-    printf("A média funcional é: %.2f\n", media_funcional);
+    printf("A mÃ©dia funcional Ã©: %.2f\n", media_funcional);
 
     return 0;
 }
