@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(){
-  float notas[10]={10.0,8.0,7.0,6.0,3,0,3.0,9.0,3.9,2,5,5.0};
+  float notas[10]={7.5, 8.0, 6.2, 5.0, 4.8, 9.1, 6.5, 7.9, 8.7, 5.5};
 
    int num_alunos = 10;
    float soma_notas = 0.0;
